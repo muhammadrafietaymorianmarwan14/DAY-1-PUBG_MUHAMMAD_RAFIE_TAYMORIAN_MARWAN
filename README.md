@@ -4,7 +4,7 @@
    
  Repository adalah tempat penyimpanan proyek atau kumpulan file yang dikelola menggunakan Git. Repository berfungsi untuk menyimpan seluruh file proyek serta mencatat setiap perubahan yang dilakukan sehingga riwayat pengerjaan dapat dilihat kembali.
 
-3. tujuan dan kegunaannya :
+2. tujuan dan kegunaannya :
    
 - Menyimpan proyek: Menjadi tempat untuk menyimpan file dan kode program.
 - Mencatat perubahan: Menyimpan riwayat perubahan pada proyek.
